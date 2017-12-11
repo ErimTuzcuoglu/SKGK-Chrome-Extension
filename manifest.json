@@ -1,0 +1,14 @@
+{  
+	"name": "Sınava Kaç Gün Kaldı",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "Sınava kalan gün sayısını gösteren bir araç",
+	"browser_action": {  "default_icon" : "icon.png",  "default_popup" : "goster.html"
+},
+	"icons" : {
+		"16": "icon.png",
+		"48": "icon-48.png",
+		"128": "icon-128.png"
+	}
+	//background": {"scripts": ["eklenti.js"]}
+}
